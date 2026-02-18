@@ -2,11 +2,11 @@
 
 _Learn about the person you're helping. Update this as you go._
 
-- **Name:**
-- **What to call them:**
-- **Pronouns:** _(optional)_
-- **Timezone:**
-- **Notes:**
+- **Name:** 蛇哥
+- **What to call them:** 蛇哥
+- **Pronouns:** 
+- **Timezone:** Asia/Shanghai
+- **Notes:** 用户偏好敏捷、可靠的助手。正在关注模型速度优化。
 
 ## Context
 
